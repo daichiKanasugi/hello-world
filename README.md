@@ -1,2 +1,5 @@
 # hello-world
-Lab 0, Just another repository
+
+This is for Lab 0.
+
+I am a CST 325 student.
